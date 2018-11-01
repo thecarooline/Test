@@ -47,6 +47,7 @@ body
 ol
 {
   margin-top: 5px;
+  list-style-type: upper-roman;
 }
 
 ol > li
@@ -56,9 +57,10 @@ ol > li
   font-weight: 700;
   letter-spacing: 2px;
   padding: 5px;
+
 }
 
-ol > li >ul
+ol > li > ul
 {
   font-size: 25px;
   text-transform: none;
@@ -71,4 +73,6 @@ ol > li >ul
 ol > li > ul > li
 {
   margin: 0px;
+  list-style-type: circle;
+  color: #009BE3;
 }
