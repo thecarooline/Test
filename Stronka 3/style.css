@@ -4,6 +4,29 @@ body
   margin: 0px;
 }
 
+a:link
+{
+  color: #AEC167;
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: #AEC167;
+}
+
+a:active
+{
+  color: #AEC167;
+  text-decoration: underline;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+
 #logo
 {
   width: 100%;
