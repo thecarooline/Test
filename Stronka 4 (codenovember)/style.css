@@ -1,7 +1,7 @@
 body
 {
   margin: 0px;
-  background-color: #C1C1C1;
+  background-color: #F5F5F5;
   font-size: 14px;
 }
 
@@ -120,7 +120,7 @@ h1
   margin-right: auto;
   background-color: #FFFFFF;
   width: 960px;
-  height: 800px;
+  height: 700px;
   padding: 20px;
 }
 
@@ -174,4 +174,81 @@ figcaption
   margin: 0px;
   padding: 0px;
   width:300px;
+}
+
+#instagramphotos
+{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  width: 960px;
+  height: 350px;
+  padding: 20px;
+}
+
+#instagramnaglowek
+{
+  padding-left: 20px;
+}
+
+#instagramphotos4
+{
+  clear: both;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.obrazekinstagramowy
+{
+  float: left;
+  padding: 15px;
+}
+
+#instalink
+{
+  clear: both;
+  padding-left: 35px;
+  color: #ED8440;
+  text-decoration: underline;
+}
+
+
+#napisdekor
+{
+  background-color: #FFFFFF;
+  width: 1000px;
+  background-image: url("img/line.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#napisdekorduzy
+{
+  font-size: 80px;
+  text-align: center;
+}
+
+#napisdekormaly
+{
+  text-align: center;
+  font-size: 14px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+footer
+{
+  text-align: center;
+  word-spacing: 10px;
+  font-family: 'Abel', sans-serif;
+  font-size: 14px;
+  background-color: #ECECEC;
+  padding:20px;
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+
 }
