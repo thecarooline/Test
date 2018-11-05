@@ -1,0 +1,177 @@
+body
+{
+  margin: 0px;
+  background-color: #C1C1C1;
+  font-size: 14px;
+}
+
+a:active
+{
+  color: #000000;
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: #000000;
+  text-decoration: none;
+}
+
+a:link
+{
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #FFFFFF;
+  text-decoration:underline;
+}
+
+h1
+{
+  font-size: 35px;
+  color: #000000;
+  letter-spacing: 2px;
+  margin-bottom: 8px;
+
+}
+
+#logo
+{
+  width: 1000px;
+  height: 300px;
+  background-image: url("img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #orange;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#nav
+{
+  text-align: center;
+  padding: 20px;
+  word-spacing: 30px;
+  font-family: 'Abel', sans-serif;
+  font-size: 14px;
+}
+
+#textlogo
+{
+  padding-top: 40px;
+  text-align: center;
+  font-size: 80px;
+  color: #FFFFFF;
+  letter-spacing: 10px;
+}
+
+#textlogosmall
+{
+  font-size: 14px;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 5px;
+  font-family: 'Abel', sans-serif;
+
+}
+
+#container
+{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  width: 960px;
+  padding: 20px;
+  height: 440px;
+}
+
+#content
+{
+  width: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+  background-color: #FFFFFF;
+}
+
+#imageauthor
+{
+  float: left;
+  width: 320px;
+  padding: 40px;
+  background-color: #FFFFFF;
+}
+
+.skillset > li
+{
+    list-style-type: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #C1C1C1;
+    margin-right: 200px;
+}
+
+#projects
+{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  width: 960px;
+  height: 800px;
+  padding: 20px;
+}
+
+#projects1
+{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#obraz1
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+}
+
+#obraz2
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  float: left;
+}
+
+#napisy3
+{
+  width: 250px;
+  float: left;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.napis
+{
+  margin-bottom: 40px;
+}
+
+.napis > h2
+{
+  color: #ED8440;
+  font-size: 24px;
+}
+
+figure
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+figcaption
+{
+  margin: 0px;
+  padding: 0px;
+  width:300px;
+}
