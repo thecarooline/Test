@@ -3,6 +3,7 @@ body
   margin: 0px;
   background-color: #F5F5F5;
   font-size: 14px;
+  font-family: 'Abel', sans-serif;
 }
 
 a:active
@@ -35,6 +36,7 @@ h1
   color: #000000;
   letter-spacing: 2px;
   margin-bottom: 8px;
+  font-family: 'Karma', serif;
 
 }
 
@@ -48,6 +50,7 @@ h1
   background-color: #orange;
   margin-left: auto;
   margin-right: auto;
+  font-family: 'Karma', serif;
 }
 
 #nav
@@ -161,6 +164,8 @@ h1
 {
   color: #ED8440;
   font-size: 24px;
+  font-family: 'Karma', serif;
+
 }
 
 figure
@@ -225,18 +230,28 @@ figcaption
 
 }
 
+#napisy
+{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
 #napisdekorduzy
 {
   font-size: 80px;
   text-align: center;
+  font-family: 'Karma', serif;
 }
 
 #napisdekormaly
 {
   text-align: center;
   font-size: 14px;
-  padding-top: 20px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 footer
